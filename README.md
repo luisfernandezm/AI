@@ -1,0 +1,1 @@
+Compilation of some hands-on work projects for the course Artificial Intelligence I took at university. The projects includes Machine Learning Algorithms, Web Scrapping and Neural Networks using TensorFlow, Numpy, Pytorch, Keras and many more.
